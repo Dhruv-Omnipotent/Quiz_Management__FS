@@ -28,9 +28,9 @@ The **Quiz Management System** is a Java-based application designed to manage qu
 2. Login with valid credentials.
 3. Attempt quizzes or create quizzes based on user role.
 
-## Contributors
+## Creator
 - Dhruv
-- [Your Friends' Names]
+
 
 ## License
 This project is for educational purposes only.
